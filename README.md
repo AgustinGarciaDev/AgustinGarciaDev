@@ -1,7 +1,5 @@
-### Hola mi nombre es Agustin!
-<br/>
-<h1>Freelancer Full Stack Mern</h1>
-
+#  Hola mi nombre es Agustin!
+###Freelancer Full Stack Mern
 <!--
 **AgustinGarciaDev/AgustinGarciaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

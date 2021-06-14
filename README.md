@@ -1,3 +1,3 @@
-# ![WhatsApp_Image_2021-06-14_at_10 32 59-removebg-preview](https://user-images.githubusercontent.com/66225450/121900603-fa1d1680-ccfb-11eb-91d0-d68f82224703.png) Hola, mi nombre es Agustin
+# ![logo](https://user-images.githubusercontent.com/66225450/121900985-6730ac00-ccfc-11eb-9ad7-2c57f2d1a479.png)Hola, mi nombre es Agustin
 ### Freelance Full Stack MERN
 

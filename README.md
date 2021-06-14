@@ -23,7 +23,7 @@
 ## Stacks Git Hub:
 <img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api?username=AgustinGarciaDev&theme=blue-green"/> 
 
-## Find me at:
+## Podés contactarme a través de:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%ADngarc%C3%ADa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinchinchilla16@gmail.com)
 

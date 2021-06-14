@@ -20,7 +20,7 @@
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agust%C3%ADngarc%C3%ADa/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%ADngarc%C3%ADa/)
 
 
 

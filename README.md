@@ -1,7 +1,13 @@
 # ![logo](https://user-images.githubusercontent.com/66225450/121900985-6730ac00-ccfc-11eb-9ad7-2c57f2d1a479.png)Hola, mi nombre es Agustin
-### Freelance Full Stack MERN
+###  Full Stack MERN
 
 ![Agustin garcia](https://user-images.githubusercontent.com/66225450/121905869-f213a580-cd00-11eb-852e-81ea9cdea200.gif)
+
+<p>
+Soy un joven apasionado por el desarrollo y diseño de aplicaciones web y móviles, con gran capacidad para aprender haciendo y autónomamente, con ansias de grandes desafíos, que se encuentra en búsqueda de trabajo principalmente remoto (o dispuesto a reubicación). He finalizado recientemente un coding bootcamp de Full Stack MERN.
+Los invito a ver algunos de mis trabajos realizados en mis repositorios.
+</p>
+
 
 ## Skills:
 

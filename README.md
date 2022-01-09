@@ -1,7 +1,8 @@
 # ![logo](https://user-images.githubusercontent.com/66225450/121900985-6730ac00-ccfc-11eb-9ad7-2c57f2d1a479.png)Hola, mi nombre es Agustin
-###  Full Stack MERN
+###  iOS Software Engineer 
 
-![Agustin garcia](https://user-images.githubusercontent.com/66225450/121905869-f213a580-cd00-11eb-852e-81ea9cdea200.gif)
+![Agustin garcia](https://user-images.githubusercontent.com/66225450/148702644-ff9c8470-a6fb-4b82-b91f-fb18fd7dad7a.gif)
+
 
 <p>
 Soy un joven apasionado por el desarrollo y diseño de aplicaciones web y móviles, con gran capacidad para aprender haciendo y autónomamente, con ansias de grandes desafíos, que se encuentra en búsqueda de trabajo principalmente remoto (o dispuesto a reubicación). He finalizado recientemente un coding bootcamp de Full Stack MERN.

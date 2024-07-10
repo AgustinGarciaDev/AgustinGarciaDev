@@ -26,16 +26,6 @@ Los invito a ver algunos de mis trabajos realizados en mis repositorios.
 
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/> <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> 
 
-
-## Stacks Git Hub:
-<img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api?username=AgustinGarciaDev&theme=blue-green"/> 
-
-## Podés contactarme a través de:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%ADngarc%C3%ADa/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinchinchilla16@gmail.com)
-[![Porfolio](https://img.shields.io/badge/Mi-Porfolio-%2307405e.svg?style=for-the-badge&logo=Porfolio&logoColor=white")](https://agustinch.netlify.app/)
-
-
 ![Copia de Agustin garcia](https://user-images.githubusercontent.com/66225450/121929763-ef707a80-cd17-11eb-8f21-ddb8cc187079.gif)
 
 

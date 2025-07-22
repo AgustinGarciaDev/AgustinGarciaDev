@@ -5,8 +5,33 @@
 
 
 <p>
-Soy un joven apasionado por el desarrollo y diseño de aplicaciones web y móviles, con gran capacidad para aprender haciendo y autónomamente, con ansias de grandes desafíos, que se encuentra en búsqueda de trabajo principalmente remoto (o dispuesto a reubicación). He finalizado recientemente un coding bootcamp de Full Stack MERN.
-Los invito a ver algunos de mis trabajos realizados en mis repositorios.
+Hello! I’m Agustín, an iOS developer with 4 years of professional experience.
+iOS:
+✅ SwiftUI
+✅ UIKit, Autolayout, Storyboard, XIB
+✅ App development with SwiftUI
+✅ App development with COMBINE
+✅ Objective-C
+✅ Core Data database
+✅ SQLite database
+✅ Design patterns: MVVM, VIPER, VIP, MVP, Clean architecture
+✅ App Store Connect
+✅ Use CocoaPods and SwiftPackag dependencies
+✅ XCTest (Unit and integration testing)
+
+Devices:
+✅ iPhone
+✅ Macbook Pro
+✅ Ipad
+
+General:
+✅ REST API
+✅ Version control with Git, Gitflow
+✅ Tracking activities Jira
+✅ Firebase: Analytics, Push Notifications, Realtime Database, Firestore, Dynamic Links
+✅ Adjust SDK
+✅ Figma
+✅ UX and UI Design
 </p>
 
 
